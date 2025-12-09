@@ -1,2 +1,5 @@
 # c-learn-2025
-cheva
+"Mencoba git"
+- Raihan Musthafa Kamal
+- 103022530025
+- Front End
